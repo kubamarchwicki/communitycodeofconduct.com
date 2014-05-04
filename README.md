@@ -1,41 +1,28 @@
 confcodeofconduct.com
 =====================
 
+
 Translations
 ------------
 
-If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.confcodeofconduct.com will load the `index-fr.html` file.
+Although there are currently no translations of this repository, they are very welcome. There is not yet any infrastructure for supporting translations through subdomains; we'll make it a priority as soon as someone starts working on one.
 
-Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
+When submitting a translation, Please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.confcodeofconduct.com will load the `index-fr.html` file.
 
-Please check the [issues](https://github.com/leftlogic/confcodeofconduct.com/issues) to see if anyone else is currently working on a translation.
-
-Current available translations (in alphabetical order):
-
-* Dutch [http://nl.confcodeofconduct.com](http://nl.confcodeofconduct.com)
-* English: [http://confcodeofconduct.com](http://confcodeofconduct.com)
-* German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
-* Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
-* Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
-* Polish: [http://pl.confcodeofconduct.com](http://pl.confcodeofconduct.com)
-* Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
-* Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
-* Hewbrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
-* Turkish: [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
-* Traditional Chinese: [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
+Before creating a translation, check the [issues](https://github.com/SamirTalwar/communitycodeofconduct.com/issues) to find out if anyone else is already working on it. If not, create an issue. When you're finished, send a pull request.
 
 
 Background
 ----------
 
-I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
+This repository is a fork of [confcodeofconduct.com][] intended for communities of people, rather than organised conferences. The intent is to move the language toward communities, rather than conferences, but otherwise keep it in sync with the original.
 
-This simple site offers up the code of conduct that (I believe) Tiffany Conroy first wrote up for jsconf.eu 2012. I reused the same content (removing the jsconf.eu specific parts) for Full Frontal 2012.
+Thanks very much to [Remy](https://twitter.com/rem) for setting up confcodeofconduct.com.
 
-I'd like to continue using this as a simple go to reference for code of conduct for events I run - and equally events you run.
+I'd like to continue using this as a simple go to reference for code of conduct for the communities in which I am involved&mdash;and equally, communities in which you're involved too.
 
 This is *not* owned by me - this is a public resource - so if there's changes, please create a pull request, and if it makes sense, it'll be merged.
 
 On that note - I'd rather not be the only person with merge permissions, so I hope that by the time you read this, I'm not the only person with those rights.
 
-&mdash; Remy / @rem
+[codeofconduct.com]: https://github.com/confcodeofconduct/confcodeofconduct.com
