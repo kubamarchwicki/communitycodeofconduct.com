@@ -15,7 +15,7 @@ Before creating a translation, check the [issues](https://github.com/SamirTalwar
 Background
 ----------
 
-This repository is a fork of [confcodeofconduct.com][] intended for communities of people, rather than organised conferences. The intent is to move the language toward communities, rather than conferences, but otherwise keep it in sync with the original.
+This repository is a fork of [confcodeofconduct.com](http://confcodeofconduct.com/) intended for communities of people, rather than organised conferences. The intent is to move the language toward communities, rather than conferences, but otherwise keep it in sync with the original.
 
 Thanks very much to [Remy](https://twitter.com/rem) for setting up confcodeofconduct.com.
 
