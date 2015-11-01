@@ -7,9 +7,11 @@ Translations
 
 Although there are currently no translations of this repository, they are very welcome. There is not yet any infrastructure for supporting translations through subdomains; we'll make it a priority as soon as someone starts working on one.
 
-When submitting a translation, Please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.confcodeofconduct.com will load the `index-fr.html` file.
+If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.communitycodeofconduct.com will load the `index-fr.html` file.
 
-Before creating a translation, check the [issues](https://github.com/SamirTalwar/communitycodeofconduct.com/issues) to find out if anyone else is already working on it. If not, create an issue. When you're finished, send a pull request.
+Fork this project, send a pull request and I'll figure out how to make the translation go live (though the translation may be validated before publishing).
+
+Please check the [issues](https://github.com/SamirTalwar/communitycodeofconduct.com/issues) to see if anyone else is currently working on a translation.
 
 
 Background
