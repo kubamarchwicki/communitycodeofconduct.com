@@ -1,7 +1,7 @@
 'use strict';
 var st = require('st');
 var http = require('http');
-var base = 'confcodeofconduct.com';
+var base = 'communitycodeofconduct.com';
 var parse = require('url').parse;
 
 var mount = st({
