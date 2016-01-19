@@ -1,5 +1,5 @@
-confcodeofconduct.com
-=====================
+communitycodeofconduct.com
+==========================
 
 
 Translations
