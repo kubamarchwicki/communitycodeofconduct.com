@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/confcodeofconduct/confcodeofconduct.com",
   "dependencies": {
-    "st": "~0.2.5"
+    "st": "^1.2.0"
   }
 }
