@@ -5,7 +5,9 @@ communitycodeofconduct.com
 Translations
 ------------
 
-Although there are currently no translations of this repository, they are very welcome. There is not yet any infrastructure for supporting translations through subdomains; we'll make it a priority as soon as someone starts working on one.
+If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, `fr.communitycodeofconduct.com` will load the `index-fr.html` file.
+
+Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
 
 If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.communitycodeofconduct.com will load the `index-fr.html` file.
 
