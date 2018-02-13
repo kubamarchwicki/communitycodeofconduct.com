@@ -15,6 +15,14 @@ Fork this project, send a pull request and I'll figure out how to make the trans
 
 Please check the [issues](https://github.com/SamirTalwar/communitycodeofconduct.com/issues) to see if anyone else is currently working on a translation.
 
+* [English](https://communitycodeofconduct.com/)
+* [Finnish](https://fi.communitycodeofconduct.com/)
+* [German](https://de.communitycodeofconduct.com/)
+* [Italian](https://it.communitycodeofconduct.com/)
+* [Japanese](https://ja.communitycodeofconduct.com/)
+* [Spanish](https://es.communitycodeofconduct.com/)
+* [Turkish](https://tr.communitycodeofconduct.com/)
+
 
 Background
 ----------
