@@ -19,7 +19,7 @@ Please check the [issues](https://github.com/SamirTalwar/communitycodeofconduct.
 * [Finnish](https://fi.communitycodeofconduct.com/)
 * [German](https://de.communitycodeofconduct.com/)
 * [Italian](https://it.communitycodeofconduct.com/)
-* [Japanese](https://ja.communitycodeofconduct.com/)
+* [Japanese](https://jp.communitycodeofconduct.com/)
 * [Spanish](https://es.communitycodeofconduct.com/)
 * [Turkish](https://tr.communitycodeofconduct.com/)
 
